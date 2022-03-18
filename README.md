@@ -1,1 +1,1 @@
-se quiser rodar em sua maquina, precisa abaixar o php e o laravel, quando clonar o arquivo crie uma pasta ".env" e cole tudo que esta na pasta "env.example" na pasta que voce criou, logo em seguida de o comando "composer install," voce vai precisar criar o banco de dados chamado "chicken" e dar o seguinte comando no cmd "php artisan migrate" e depois o "php artisan serve",  que vai te passar um link para poder rodar o projeto localmente.
+Projeto Delivery em Desenvolvimento
