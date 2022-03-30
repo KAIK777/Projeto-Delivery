@@ -6,7 +6,9 @@
 
         <title>Laravel</title>
 
-        <link rel="shortcut icon" type="imagex/png" href="images/logo.png">
+        <link rel="shortcut icon" type="imagex/png" href="../images/logo.png">
+
+        <link rel="manifest" href="../manifest.webmanifest">
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -130,5 +132,6 @@
                 </div>
             </div>
         </div>
+        <script src="../index.js"></script>
     </body>
 </html>

@@ -1,12 +1,12 @@
-const cacheName = 'portfolio'
+const cacheName = 'chickenciapwa'
 
 self.addEventListener('install', function(event){
     event.waitUntil(
         caches.open(cacheName).then(function (cache){
             cache.addAll([
                 './',
-                './sobre.html',
-                './manifest.webmanifest',
+                '/views/welcome.blade.php',
+                '/views/admin/pages/index.blade.php',
                 './index.js'
             ])
         })
