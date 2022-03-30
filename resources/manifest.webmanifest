@@ -1,0 +1,18 @@
+{
+    "short_name": "Chicken Cia",
+    "name": "Delivery Chicken Cia",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#FFFFFF",
+    "theme-color": "#FFFFFF",
+    "background_color": "#000000",
+    "background-color": "#000000",
+    "description": "Página Prjeto Delivery Chicken Cia",
+    "icons": [
+        {
+            "src": "images/logo.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
